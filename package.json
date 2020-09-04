@@ -1,0 +1,23 @@
+{
+  "name": "uipathappssample",
+  "displayName": "UiPath Apps Sample",
+  "version": "1.2.0",
+  "description": "Demo of UiPath Apps hosted in a client",
+  "author": "UiPath",
+  "icon": "./icon.png",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "pack": "electron-builder --dir",
+    "dist": "electron-builder"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^10.1.1",
+    "electron-builder": "^22.8.0"
+  },
+  "build": {
+    "appId": "com.uipath.uipathappsdemo",
+    "productName": "UiPath Apps sample"
+  }
+}
