@@ -30,4 +30,5 @@ jobs:
       # Publish the Zip file
       - uses: actions/upload-artifact@v2.1.4
         with:
-          name: ./SampleClientApp.zip
+          name: SampleClientApp.zip
+          path: ./
