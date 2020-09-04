@@ -26,4 +26,8 @@ jobs:
       - uses: montudor/action-zip@v0.1.0
         with:
           args: zip -qq -r ./SampleClientApp.zip ./
-
+          
+      # Publish the Zip file
+      - uses: actions/upload-artifact@v2.1.4
+        with:
+          name: ./SampleClientApp.zip
