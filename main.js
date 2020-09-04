@@ -13,7 +13,7 @@ let mainWindow
 function createWindow () {
   let {width, height} = require('electron').screen.getPrimaryDisplay().workAreaSize
 
-  //UPDATE the 
+  //UPDATE THE WINDOW PARAMETERS TO MEET YOUR NEEDS
   mainWindow = new BrowserWindow({
     width: 500,                             // Width of the client window
     height: 500,                            // Height of the client window
