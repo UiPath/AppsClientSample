@@ -25,5 +25,5 @@ jobs:
       # Zips the files
       - uses: montudor/action-zip@v0.1.0
         with:
-          args: zip -qq -r ./SampleClientApp.zip ./dir
+          args: zip -qq -r ./SampleClientApp.zip ./
 
