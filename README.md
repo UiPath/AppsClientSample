@@ -16,6 +16,7 @@ Modify the sample to meet your needs. Here are some of the key modifications:
   - **Window Parameters** (lines 18-27) - change these parameters to meet the needs of your app
 - `package.json`
   - **displayName** (line 3) - this will be used as the EXE name of your app
+  - **productName** (line 21) - this will be used as the name of the installed app as it appears in Windows
 
 ## Testing
 To run the app in a windowd client to verify your configuration run
