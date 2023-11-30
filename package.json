@@ -13,8 +13,8 @@
   },
   "license": "ISC",
   "devDependencies": {
-    "electron": "^10.1.1",
-    "electron-builder": "^22.8.0"
+    "electron": "^27.1.2",
+    "electron-builder": "^24.9.1"
   },
   "build": {
     "appId": "com.uipath.uipathappsdemo",
