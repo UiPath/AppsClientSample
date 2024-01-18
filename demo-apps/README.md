@@ -1,3 +1,6 @@
 | App Topic      | Description | Link     | Current Version | 
 | :---        |    :----:   |          ---: | ---: |
 | External Context Usage in Apps      | This App demonstrates the ability to pass strings, ints and complex json objects using query parameters into Apps       |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/expressions/ExternalContext_3.0.0_DemoApp.uiapp) |3.0.0 
+| Create Charts using Custom HTML Control       | This App demonstrates the ability to create different types of charts using d3.js or chart.js       |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-html/CustomHTMLCharts_DemoApp.uiapp) |2.0.0 
+| Custom HTML Control App Variable functions usage      | This App demonstrates the ability to create a pie chart from entity data utilizing the app variable access functions provided by Custom HTML control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-html/CustomHTMLPieChart_DemoApp.zip) |2.0.0
+| Date Time Picker using Custom HTML Control     | This App demonstrates the ability to create a Date Time picker control in Apps |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-html/CustomHTMLDateTimeControl_DemoApp.uiapp) |2.0.0 
