@@ -1,3 +1,7 @@
+Note: For UiPath Demo Apps, refer Demo Apps folder. This is part of Jan 2024 initiative.
+
+
+
 # AppsClientSample
 Sample for wrapping a UiPath app in a windows client side exe
 
