@@ -5,3 +5,4 @@
 | Custom HTML Control App Variable functions usage      | This App demonstrates the ability to create a pie chart from entity data utilizing the app variable access functions provided by Custom HTML control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-html/CustomHTMLPieChart_DemoApp.zip) |2.0.0| Jan 2024| 
 | Date Time Picker using Custom HTML Control     | This App demonstrates the ability to create a Date Time picker control in Apps |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-html/CustomHTMLDateTimeControl_DemoApp.uiapp) |2.0.0| Jan 2024| 
 | Password Input using Custom HTML Control     | This App demonstrates the ability to create password control in Apps |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-html/CustomHTMLPasswordControl_DemoApp.uiapp) |3.0.0 | Jan 2024| 
+test-push
