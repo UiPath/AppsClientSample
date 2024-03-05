@@ -1,0 +1,90 @@
+{
+    "Name": "Onboarding-Doc3",
+    "Description": "Validate and approve onboarding3",
+    "AllowedActions": [
+        "Approve",
+        "Reject"
+    ],
+    "Schema": {
+        "$schema": "http://json-schema.org/draft-07/schema#",
+        "type": "object",
+        "properties": {
+            "firstName": {
+                "type": "string",
+                "direction": "in",
+                "description": "The unique identifier name."
+            },
+            "lastName": {
+                "type": "string",
+                "direction": "in",
+                "description": "The unique identifier name."
+            },
+            "preferredName": {
+                "type": "string",
+                "direction": "in",
+                "description": "The preferred Name  name."
+            },
+            "Designation": {
+                "type": "string",
+                "direction": "in",
+                "description": "The designation of the employee."
+            },
+            "address": {
+                "type": "string",
+                "direction": "in",
+                "description": "The Address of the employee."
+            },
+            "city": {
+                "type": "string",
+                "direction": "in",
+                "description": "The City of the employee."
+            },
+            "zip_code": {
+                "type": "string",
+                "direction": "in",
+                "description": "The zip code of the employee."
+            },
+            "Laptop": {
+                "type": "string",
+                "description": "type of laptop"
+            },
+            "Monitor": {
+                "type": "string",
+                "description": "type of monitor"
+            },
+            "Keyboard": {
+                "type": "string",
+                "description": "type of Keyboard"
+            },
+            "Laptopinventory": {
+                "type": "string",
+                "description": "inventory of laptop"
+            },
+            "Monitorinventory": {
+                "type": "string",
+                "description": "inventory of Monitor"
+            },
+            "Keyboardinventory": {
+                "type": "string",
+                "description": "inventory of keyboard and mouse"
+            },
+            "LaptopApproved": {
+                "type": "string",
+                "description": "inventory of laptop"
+            },
+            "MonitorApproved": {
+                "type": "string",
+                "description": "inventory of Monitor"
+            },
+            "KeyboardApproved": {
+                "type": "string",
+                "description": "inventory of keyboard and mouse"
+            }
+        },
+        "required": [
+            "firstName",
+            "lastName",
+            "address"
+        ]
+    }
+}
