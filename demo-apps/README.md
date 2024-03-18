@@ -10,3 +10,4 @@
 | Image control    | This App demonstrates the ability to use Media for Image control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/Image/Image_Control_Demo_App.uiapp) |1.0.0 | Mar 2024|
 | Edit grid Control to edit Entity     | This App demonstrates the ability to edit entity in Apps |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/edit-grid/EditGridEntity_DemoApp.zip) |1.0.0 | Mar 2024| 
 | Table Control with Entity     | This App demonstrates the ability to view entity in table |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/table/TableEntity_DemoApp.zip) |1.0.0 | Mar 2024| 
+| Textbox Control     | This App demonstrates usage of text box control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/textbox/Textbox_Control_Demo_App.uiapp) |1.0.0 | Mar 2024|
