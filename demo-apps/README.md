@@ -15,3 +15,4 @@
 | Header Content Page Template     | This App demonstrates the new form header content template released in April 2024 |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/templates/TemplateHeaderContent_DemoApp.uiapp) |1.0.0 | Apr 2024| 
 | Header Two Columns Page Template     | This App demonstrates the new form header two columns template released in April 2024 |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/templates/TemplateHeaderTwoColumns_DemoApp.uiapp) |1.0.0 | Apr 2024|
 | Custom list APP     | This App demonstrates new custom list control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-list/Custom_List_Demo_App.uiapp) |1.0.0 | May 2024|  
+| Date Picker VB Demo APP     | This App demonstrates Date Picker control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/expressions/VbDateOnlyValidation.uiapp) |1.0.0 | May 2024|  
