@@ -17,3 +17,4 @@
 | Custom list APP     | This App demonstrates new custom list control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/custom-list/Custom_List_Demo_App.uiapp) |1.0.0 | May 2024|  
 | Date Picker VB Demo APP     | This App demonstrates Date Picker control |  [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/expressions/VbDateOnlyValidation.uiapp) |1.0.0 | May 2024|  
 | Vb Expression cheat sheet     | This App include useful vb expressions | [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/expressions/VB_Expressions_Cheat_Sheet_v2.uiapp) |1.0.0 | Sep 2024| 
+| Table cheat sheet(Apps in StudioWeb)     | This App includes how to bind custom list, edit grid, dropdown and table controls to entities, list source, data table | [Sample](https://github.com/UiPath/AppsClientSample/blob/master/demo-apps/controls/edit-grid/Apps_Tables_Cheatsheet.zip) |1.0.0 | Sep 2025| 
